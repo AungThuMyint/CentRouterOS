@@ -32,3 +32,6 @@ If you love this project, please consider giving me **_(star)_** ⭐. Thank you.
 ## :beginner: Contribute
 If you want to report issue or request new feature, contact me on Discord
 * https://discord.com/users/AungThuMyint#3035
+
+## :myanmar: Myanmar
+**Coder Aung Thu Myint** :copyright:
