@@ -15,7 +15,7 @@ It can also be installed on a VMware and will turn it into a router with all the
 
 ## :old_key: Default User Credentials
 * Username - root
-* Password – centrouteros
+* Password - centrouteros
 
 ## :ice_cube: Download VMware Image
 * Google Drive Link [3.09 GB](https://drive.google.com/file/d/1pJwNz6lTLXuJm-CjmS5OKu747CZ4aGK3/view?usp=sharing)
