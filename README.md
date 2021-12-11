@@ -17,6 +17,9 @@ It can also be installed on a VMware and will turn it into a router with all the
 * Username - root
 * Password – centrouteros
 
+## :ice_cube: Download VMware Image
+* Google Drive Link [3.09 GB](https://drive.google.com/file/d/1pJwNz6lTLXuJm-CjmS5OKu747CZ4aGK3/view?usp=sharing)
+
 ## :framed_picture: Screenshots
 <img src=https://raw.githubusercontent.com/AungThuMyint/CentRouterOS/main/CentRouterOS01.png>
 <img src=https://raw.githubusercontent.com/AungThuMyint/CentRouterOS/main/CentRouterOS02.png>
